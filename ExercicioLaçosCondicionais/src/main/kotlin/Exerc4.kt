@@ -16,7 +16,7 @@ fun main(){
 
         }else{
                 println("O número é par")
-                println("A raiz quadrada do número é: ${"%.2f".format(sqrt(num))}" )
+                println("A raiz quadrada do número é: ${"%.2f".format(sqrt (num))}")
 
         }
 }
