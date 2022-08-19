@@ -1,6 +1,5 @@
 fun main() {
-    /* 1- Informar todos os números de 1000 a 1999 que quando divididos por 11
-         obtemos resto = 5. (FOR)
+    /* 2- Ler 10 números e imprimir quantos são pares e quantos são ímpares. (FOR)
         */
 
 
