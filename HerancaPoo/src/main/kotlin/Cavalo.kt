@@ -10,6 +10,6 @@ class Cavalo(nome: String, idade: Int) : Animal(nome, idade) {
     }
 
     override fun correr(){
-        println("Correndo")
+        println("E ele está Correndo")
     }
 }

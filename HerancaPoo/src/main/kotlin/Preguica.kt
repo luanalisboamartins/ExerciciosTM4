@@ -11,6 +11,6 @@ class Preguica(nome: String, idade: Int) : Animal(nome, idade) {
     }
 
     fun subindoEmArvore(){
-        println("Subindo em Árvore")
+        println("E ela está Subindo em uma Árvore")
     }
 }
