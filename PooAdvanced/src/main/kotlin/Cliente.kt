@@ -5,6 +5,7 @@ class Cliente (
 ){
 
     private val listaCompras = mutableListOf<String>()
+    val listaComprastests: List<String> = listaCompras
 
     init {
         checarDados()

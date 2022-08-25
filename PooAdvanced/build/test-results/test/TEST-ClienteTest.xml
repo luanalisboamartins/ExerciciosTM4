@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ClienteTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-08-25T15:23:25" hostname="LAPTOP-B12N0AKR" time="0.04">
+  <properties/>
+  <testcase name="addCompraTest()" classname="ClienteTest" time="0.034"/>
+  <testcase name="removeCompraTest()" classname="ClienteTest" time="0.005"/>
+  <system-out><![CDATA[Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+Produto adicionado com sucesso!
+O produto macarrão não existe na lista!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
